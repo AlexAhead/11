@@ -1,0 +1,46 @@
+a {
+	color:red;
+	font-size:20px;
+}
+
+div {
+	color:#19FBFF;
+}
+
+#LLL {
+	color:orange;
+}
+
+#TTT {
+	color:green;
+}
+
+.CHEL {
+	color:blue;
+}
+.ZHOOK {
+	color:violet;
+}
+
+#LLL:hover {
+	border: 10px solid#323232;
+}
+body {
+	background-image:url(sc2.jpg);
+}
+
+#TEST {
+	transition:5s all;
+	background-color:rgeen;
+	color:white;
+	padding:12px;
+	margin:15px;
+	border:7px solid red;
+	border-radius:20px;
+	opacity:0.5;
+	box-shadow:33px 33px 7px #000000;
+	
+}#TEST:hover {
+		transform: rotate(45deg) scale(0.3);
+
+}
